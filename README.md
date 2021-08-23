@@ -1,2 +1,2 @@
 # Currency-Converter
-Currency Converter simple app
+Currency Converter simple Android App
